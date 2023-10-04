@@ -5,7 +5,7 @@
 - 📫 Reach me on LinkedIn - www.linkedin.com/in/ayush-kumar-anand
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,msql,dart,flutter,androidstudio,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,dart,flutter,androidstudio,git,github)](https://skillicons.dev)
 
 <!---
 ayushk-1801/ayushk-1801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
