@@ -1,3 +1,4 @@
+## About Me:
 - 👋 Hi, I’m Ayush Kumar Anand
 - 👀 I’m interested in Competitive Programming, Android Development and AI-ML
 - 🌱 I’m currently learning Machine Learning
