@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushk-1801
+- 👋 Hi, I’m Ayush Kumar Anand
 - 👀 I’m interested in Competitive Programming, Android Development and AI-ML
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Open Source
