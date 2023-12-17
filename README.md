@@ -1,7 +1,7 @@
 ## About Me:
 - 👋 Hi, I’m Ayush Kumar Anand
-- 👀 I’m interested in Competitive Programming, Machine Learning and Android Development
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Competitive Programming, Web and Android Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 Reach me on LinkedIn - www.linkedin.com/in/ayush-kumar-anand
 
