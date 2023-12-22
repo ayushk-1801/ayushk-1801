@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Ayush Kumar Anand
 - 👀 I’m interested in Competitive Programming, Web and Android Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Open Source
+- 💞️ I’m looking to contribute to Open Source
 - 📫 Reach me on LinkedIn - www.linkedin.com/in/ayush-kumar-anand
 
 ## Technology Stack:
