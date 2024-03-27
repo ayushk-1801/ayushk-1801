@@ -3,6 +3,7 @@
 - 👀 I’m interested in Competitive Programming, Web and Android Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to contribute to Open Source
+- 💻 And I use Arch BTW >>>
 - 📫 Reach me on LinkedIn - www.linkedin.com/in/ayush-kumar-anand
 
 ## Technology Stack:
