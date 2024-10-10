@@ -9,7 +9,7 @@ I'm a passionate developer who loves building web applications using the MERN st
 - **Open Source**: Actively looking to contribute to open source projects and collaborate with the community.
 
 ### 🔧 Tools & Technologies:
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,html,css,rust,js,ts,nodejs,react,nextjs,tailwind,mongodb,mysql,postgress,postman,prisma,npm,docker,git,github,linux,md,figma,arch,vim,neovim&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats:
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushk-1801&show_icons=true&theme=radical)
