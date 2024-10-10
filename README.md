@@ -19,7 +19,7 @@ I'm a passionate developer who loves building web applications using the MERN st
 - Others: Git, GitHub, Linux, Docker
 
 ### 📈 GitHub Stats:
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushk-1801&show_icons=true&theme=radicall)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushk-1801&show_icons=true&theme=radical)
 
 ### 📫 How to reach me:
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
