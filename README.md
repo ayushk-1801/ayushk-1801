@@ -2,7 +2,7 @@
 
 ### 🌐 Full Stack MERN Web Developer | 🌟 Open Source Enthusiast
 
-I'm a passionate developer who loves building web applications using the MERN stack (MongoDB, Express, React, and Node.js). Currently, I'm diving into the world of **Open Source**.
+I'm a passionate developer who loves building web applications using the MERN stack. Currently, I'm diving into the world of **Open Source**.
 
 ### 💻 What I Do:
 - **Full Stack Development**: Building dynamic web apps using the MERN stack.
