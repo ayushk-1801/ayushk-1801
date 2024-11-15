@@ -15,7 +15,7 @@ I'm a passionate developer who loves building web applications using the MERN st
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushk-1801&show_icons=true&theme=radical)
 
 ### 📫 How to reach me:
-- **Email**: [ayushkumar.swe@iiitd.ac.in](mailto:ayushkumar.swe@iiitd.ac.in)
+- **Email**: [ayushkumar.swe@gmail.com](mailto:ayushkumar.swe@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ayush-kumar-anand](https://linkedin.com/in/ayush-kumar-anand)
 
 Let's build something amazing together!
