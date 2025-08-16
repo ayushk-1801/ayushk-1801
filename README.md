@@ -30,18 +30,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff" />
-</p>[6]
-
-<!-- Experience -->
-### 💼 Experience
-- AIPHI AI — Built an AI‑assisted exam prep platform with LLM modules (adaptive QG, feedback, tracking), real‑time APIs/data pipelines; deployed with Docker on Azure[6].  
-- Audient — High‑performance live event booking: improved engagement, admin workflows, auth/payments, analytics, SEO & Core Web Vitals on Next.js stack[6].  
-- Open Source — Contributed fixes and stability improvements to the Zero open‑source email client[6].
-
-<!-- Featured Projects -->
-### 🚀 Featured Projects
-- AI Chat Platform — Open‑source alternative to t3.chat/ChatGPT with multi‑provider chat (Gemini, Groq, Ollama), 25+ models, local inference, and real‑time web search grounding; built on Next.js + TypeScript + Tailwind + Drizzle + Vercel AI SDK[6].  
-- More on my blog and projects page[9][6].
+</p>
 
 <!-- What I'm up to -->
 ### 🔭 Currently
@@ -55,8 +44,8 @@
   <a href="https://x.com/ayushktwt"><img alt="X" src="https://img.shields.io/badge/X-@ayushktwt-000000?logo=x" /></a>
   <a href="https://cal.com/ayush-kumar-anand"><img alt="Cal.com" src="https://img.shields.io/badge/Cal.com-Book%20a%20slot-111?logo=caldotcom" /></a>
   <a href="https://ayushk.me"><img alt="Website" src="https://img.shields.io/badge/Website-ayushk.me-1f6feb?logo=vercel" /></a>
-</p>[6]
+</p>
 
 <!-- Fun -->
 ### ☕ Fun
-Turning coffee into code since day one[6].
+Turning caffeine into code since day one.
