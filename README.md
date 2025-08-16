@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Ayush Kumar Anand 👋</h1>
 <p align="center">
-  <b>Full‑Stack Developer</b> • CSAI undergrad @ IIIT Delhi • SIH'24 Finalist • Based in New Delhi, India[6]
+  <b>Full‑Stack Developer</b> • CSAI undergrad @ IIIT Delhi • SIH'24 Finalist • Based in New Delhi, India
 </p>
 <p align="center">
   <a href="https://github.com/ayushk-1801"><img src="https://img.shields.io/badge/GitHub-ayushk--1801-181717?logo=github" /></a>
@@ -12,9 +12,9 @@
 
 <!-- About -->
 ### 👨‍💻 About
-- 19y/o dev building things that actually solve problems, exploring Solana, and open to collabs/freelance[6].  
-- Tech I reach for: <b>Next.js</b>, <b>TypeScript</b>, <b>Tailwind</b>, <b>Rust</b>[6].  
-- SIH'24 Finalist; currently shipping AI and full‑stack projects with real users[6].
+- 19y/o dev building things that actually solve problems, exploring Solana, and open to collabs/freelance.  
+- Tech I reach for: <b>Next.js</b>, <b>TypeScript</b>, <b>Tailwind</b>, <b>Rust</b>.  
+- SIH'24 Finalist; currently shipping AI and full‑stack projects with real users.
 
 <!-- Skills / Stack -->
 ### 🧰 Tech Stack
@@ -35,7 +35,7 @@
 <!-- What I'm up to -->
 ### 🔭 Currently
 - Deep‑diving into <b>Solana</b> and systems work with Rust[6].  
-- Open to <b>freelance</b> and <b>collaborations</b>—DM on X or book a quick call[6].
+- Open to <b>freelance</b> and <b>collaborations</b>—DM on X or book a quick call.
 
 <!-- Connect -->
 ### 🌐 Connect
