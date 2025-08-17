@@ -37,15 +37,6 @@
 - Deep‑diving into <b>Solana</b> and systems work with Rust.  
 - Open to <b>freelance</b> and <b>collaborations</b>—DM on X or book a quick call.
 
-<!-- Connect -->
-### 🌐 Connect
-<p>
-  <a href="https://github.com/ayushk-1801"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ayushk--1801-181717?logo=github" /></a>
-  <a href="https://x.com/ayushktwt"><img alt="X" src="https://img.shields.io/badge/X-@ayushktwt-000000?logo=x" /></a>
-  <a href="https://cal.com/ayush-kumar-anand"><img alt="Cal.com" src="https://img.shields.io/badge/Cal.com-Book%20a%20slot-111?logo=caldotcom" /></a>
-  <a href="https://ayushk.me"><img alt="Website" src="https://img.shields.io/badge/Website-ayushk.me-1f6feb?logo=vercel" /></a>
-</p>
-
 <!-- Fun -->
 ### ☕ Fun
 Turning caffeine into code since day one.
