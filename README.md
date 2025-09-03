@@ -14,7 +14,7 @@
 ### 👨‍💻 About
 - 19y/o dev building things that actually solve problems, exploring Solana, and open to collabs/freelance.  
 - Tech I reach for: <b>Next.js</b>, <b>TypeScript</b>, <b>Tailwind</b>, <b>Rust</b>.  
-- SIH'24 Finalist; currently learning web3 and building on eth.
+- SIH'24 Finalist; currently learning web3 and building on solana.
 
 <!-- Skills / Stack -->
 ### 🧰 Tech Stack
