@@ -34,7 +34,7 @@
 
 <!-- What I'm up to -->
 ### 🔭 Currently
-- Deep‑diving into <b>Solana</b> and systems work with Rust.  
+- Deep‑diving into Open Source.  
 - Open to <b>freelance</b> and <b>collaborations</b>—DM on X or book a quick call.
 
 <!-- Fun -->
