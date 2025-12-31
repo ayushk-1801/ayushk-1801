@@ -1,40 +1,120 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Ayush Kumar Anand 👋</h1>
+<h1 align="center">
+  Ayush Kumar Anand
+</h1>
+
 <p align="center">
-  <b>Full‑Stack Developer</b> • CSAI undergrad @ IIIT Delhi • SIH'24 Finalist • Based in New Delhi, India
+  <a href="https://ayushk.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ayushk.me-6366F1?style=for-the-badge&logo=" />
+  </a>
+  <a href="https://github.com/ayushk-1801" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ayushk--1801-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ayushkumar.swe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ayush-kumar-anand">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ayushktwt">
+    <img src="https://img.shields.io/badge/ayushktwt-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### About Me
+
+**Location:** New Delhi, India  
+**Role:** Full Stack Developer  
+**Education:** B.Tech in Computer Science and Artificial Intelligence, IIIT Delhi  
+**Experience:** 1+ years  
+
+**Currently working on:**  
+Scalable full-stack systems, real-time applications, AI-powered products, LLMs and RAG systems
+
+
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,rust,react,nextjs,nodejs,express,fastapi&theme=dark" />
 </p>
 <p align="center">
-  <a href="https://github.com/ayushk-1801"><img src="https://img.shields.io/badge/GitHub-ayushk--1801-181717?logo=github" /></a>
-  <a href="https://ayushk.me"><img src="https://img.shields.io/badge/Portfolio-ayushk.me-1f6feb?logo=vercel" /></a>
-  <a href="https://x.com/ayushktwt"><img src="https://img.shields.io/badge/X-@ayushktwt-000000?logo=x" /></a>
-  <a href="https://cal.com/ayush-kumar-anand"><img src="https://img.shields.io/badge/Book%20a%20call-Cal.com-111?logo=caldotcom" /></a>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,aws,vercel,cloudflare,git&theme=dark" />
 </p>
 
-<!-- About -->
-### 👨‍💻 About
-- 19y/o dev building things that actually solve problems, exploring Solana, and open to collabs/freelance.  
-- Tech I reach for: <b>Next.js</b>, <b>TypeScript</b>, <b>Tailwind</b>, <b>Rust</b>.  
-- SIH'24 Finalist; currently learning go and devops.
+---
 
-<!-- Skills / Stack -->
-### 🧰 Tech Stack
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=fff" />
-  <img alt="tRPC" src="https://img.shields.io/badge/tRPC-2596be?logo=trpc&logoColor=fff" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff" />
+### Experience Highlights
+
+| Company | Role | Duration | What I Did |
+|------|------|---------|------------|
+| **AIPHI AI** | Full Stack AI Engineer Intern | May 2025 – Aug 2025 | Built an LLM-assisted competitive-exam platform with real-time chat, video calling, adaptive question generation, analytics, and scalable APIs |
+| **Audient** | Full Stack Web Developer | Jan 2025 – Apr 2025 | Built an event booking platform, improved UX, reduced page load by ~40%, boosted engagement by ~60% |
+
+---
+
+### Open Source
+
+- **PalisadoesFoundation/talawa-admin**  
+  5+ PRs fixing UI bugs, improving test coverage, refactoring fragile components
+
+- **Mail-0 / Zero**  
+  Fixed layout and responsiveness issues, improved cross-screen UX, collaborated with maintainers
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">KryptVault</h3>
+      <p align="center">
+        Secure desktop storage with per-file encryption, zero-knowledge access, and RBAC.
+        <br/><br/>
+        <a href="https://github.com/ayushk-1801/kryptvault">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">e3.chat</h3>
+      <p align="center">
+        Real-time AI chat app inspired by ChatGPT and t3.chat with 20+ model support.
+        <br/><br/>
+        <a href="https://github.com/ayushk-1801/e3-chat">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Benkyoshi</h3>
+      <p align="center">
+        AI platform converting YouTube playlists into structured interactive courses.
+        <br/><br/>
+        <a href="https://github.com/ayushk-1801/gdg-hackathon">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Achievements
+
+- Ranked 54 / 20,000+ in Amazon ML Challenge 2025
+- 2nd Place at Smart India Hackathon 2024
+- Top 250 / 20,000+ teams at Odoo Hackathon Grand Finale
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushk-1801&color=6366F1&style=flat-square&label=Profile+Views" />
 </p>
 
-<!-- What I'm up to -->
-### 🔭 Currently
-- Deep‑diving into Open Source.  
-- Open to <b>freelance</b> and <b>collaborations</b>, DM on X or book a quick call.
-
-
+<!-- <p align="center">
+  <b>If you want someone who actually ships, not just talks — we’ll get along.</b>
+</p> -->
