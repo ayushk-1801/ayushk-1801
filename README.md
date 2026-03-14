@@ -57,7 +57,7 @@ Scalable full-stack systems, real-time applications, AI-powered products, LLMs a
 ### Open Source
 
 - **PalisadoesFoundation/talawa-admin**  
-  5+ PRs fixing UI bugs, improving test coverage, refactoring fragile components
+  9+ PRs fixing UI bugs, improving test coverage, refactoring fragile components
 
 - **Mail-0 / Zero**  
   Fixed layout and responsiveness issues, improved cross-screen UX, collaborated with maintainers
