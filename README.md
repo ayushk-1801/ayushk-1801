@@ -9,4 +9,4 @@ I build scalable products, developer tools, and AI-powered applications.
 - Interested in **systems design, backend architecture, and distributed systems**
 - Active in **open source and product-focused development**
 
-[Portfolio](https://ayushk.me) · [LinkedIn](https://linkedin.com/in/ayush-kumar-anand) · [X](https://x.com/ayushktwt) · [Email](mailto:ayushkumar.swe@gmail.com)
+[Portfolio](https://ayushk.is-a.dev) · [LinkedIn](https://linkedin.com/in/ayush-kumar-anand) · [X](https://x.com/ayushktwt) · [Email](mailto:ayushkumar.swe@gmail.com)
